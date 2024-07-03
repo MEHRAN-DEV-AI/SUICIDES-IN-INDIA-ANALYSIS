@@ -40,7 +40,7 @@ To start using this dataset, clone the repository and load the dataset into your
 If you have any suggestions or improvements, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MEHRAN-DEV-AI/SUICIDES-IN-INDIA-ANALYSIS/blob/main/LICENSE) file for details.
 
 # Acknowledgements
 We acknowledge the sources and data providers who have made this dataset available for public use.
